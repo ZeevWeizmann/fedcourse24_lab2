@@ -39,7 +39,7 @@ As a baseline, we used FedSGD (no local training, full batch).
 
 ### Plot
 
-![Effect of local epochs on test accuracy](ls1100.png)
+![Effect of local epochs on test accuracy](ls1100 .png)
 _Figure 1: Effect of local epochs on test accuracy._
 
 ### Analysis
