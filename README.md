@@ -289,7 +289,3 @@ This confirms that SCAFFOLD is particularly advantageous in heterogeneous enviro
 ```bash
 git clone git@github.com:ZeevWeizmann/fedcourse24_lab2.git
 ```
-
-```
-
-```
