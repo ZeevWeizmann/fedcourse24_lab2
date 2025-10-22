@@ -1,0 +1,106 @@
+# === IDE & Project Settings ===
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# === Notebooks ===
+notebooks/
+*.ipynb
+.ipynb_checkpoints/
+
+# === Logs & Outputs ===
+logs/
+runs/
+events.out.tfevents.*
+*.log
+*.out
+*.err
+
+# === Datasets ===
+data/
+datasets/
+mnist/
+*.zip
+*.tar
+*.gz
+
+# === Checkpoints & Models ===
+chkpts/
+chkpts_list_cifar10/
+chkpts_list_cifar100/
+checkpoints/
+weights/
+models/
+outputs/
+results/
+
+# === Binary / Serialized Files ===
+*.npy
+*.npz
+*.pkl
+*.pt
+*.pth
+*.h5
+*.hdf5
+*.csv
+*.json
+*.txt
+
+# === Python Cache ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# === Environments ===
+.env
+.venv
+env/
+venv/
+*.egg-info/
+.eggs/
+.Python
+
+# === Build / Packaging ===
+build/
+dist/
+develop-eggs/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg
+.installed.cfg
+*.manifest
+*.spec
+
+# === Testing / Coverage ===
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+htmlcov/
+.pytest_cache/
+
+# === Documentation ===
+docs/_build/
+*.pot
+*.mo
+# keep PDFs (reports, figures, etc.)
+# keep all image formats for reports and plots
+
+# === Misc ===
+*.bak
+*.tmp
+*.cache
+__MACOSX/
+
+# === Experiment Tracking (future-proof) ===
+wandb/
