@@ -201,7 +201,9 @@ This term, controlled by coefficient μ, limits local divergence and is intended
 
 The update rule for FedProx is given by:
 
-min₍w₎ F_k(w) + (μ / 2) ||w − w_t||²
+$$
+\min_{w} F_k(w) + \frac{\mu}{2} \| w - w_t \|^2
+$$
 
 where F_k(w) is the local loss function on client k, and w_t is the global model received at round t.
 
