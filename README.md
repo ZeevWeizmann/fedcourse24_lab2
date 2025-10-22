@@ -178,7 +178,7 @@ Training was again executed with three sampling rates: 0.2, 0.5, and 1.0.
 The parameter `sample_with_replacement` was set to `True`.
 The resulting test accuracy curves are shown below.
 
-![Test accuracy over 100 rounds for sampling with replacement](ex5_2.png)
+![Test accuracy over 100 rounds for sampling with replacement](ex5.png)
 _Figure 4: Test accuracy over 100 rounds for sampling with replacement. As expected, higher sampling rates lead to more stable convergence and higher final accuracy, since more clients participate in each round, reducing variance in the aggregated model._
 
 #### Observations
