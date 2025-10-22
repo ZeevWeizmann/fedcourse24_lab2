@@ -282,15 +282,14 @@ Compared to FedAvg, it achieves:
 
 This confirms that SCAFFOLD is particularly advantageous in heterogeneous environments where FedAvg typically diverges.
 
-```
+**Report:** [Second_Lab_Report.pdf](Second_Lab_Report.pdf)
 
-```
-
-**Report:** [Second_Lab_Report.pdf](Second_Lab_Report.pdf)  
-**Figures:** Experimental results — see `.png` files in the repository.
-
-Repository :
+**Repository** :
 
 ```bash
 git clone git@github.com:ZeevWeizmann/fedcourse24_lab2.git
+```
+
+```
+
 ```
