@@ -286,7 +286,7 @@ This confirms that SCAFFOLD is particularly advantageous in heterogeneous enviro
 
 ```
 
-**Report:** [Second_Lab_Report.pdf](./Second_Lab_Report.pdf)  
+**Report:** [Second_Lab_Report.pdf](Second_Lab_Report.pdf)  
 **Figures:** Experimental results — see `.png` files in the repository.
 
 Repository :
